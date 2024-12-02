@@ -6,7 +6,6 @@
 ### About Me
 - 🌱 I'm currently learning Computer Science
 - 🎓 I'm an Undergraduate at Informatics Institute of Technology
-- 💬 Ask me about [Your areas of expertise]
 - 📫 How to reach me: akildikshan01@gmail.com
 - ⚡ Fun fact: I'm a Photographer
 
