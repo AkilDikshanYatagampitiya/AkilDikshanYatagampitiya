@@ -2,14 +2,13 @@
 
 ### Passionate IT Student | Exploring the Boundless World of Technology
 
-![Profile Views](https://komarev.com/ghpg/username=AkilDikshanYatagampitiya&color=blue)
 
 ### About Me
 - 🌱 I'm currently learning Computer Science
-- 🎓 I'm an Undergraduate at [Your University]
+- 🎓 I'm an Undergraduate at Informatics Institute of Technology
 - 💬 Ask me about [Your areas of expertise]
-- 📫 How to reach me: [Your email]
-- ⚡ Fun fact: [Your fun fact]
+- 📫 How to reach me: akildikshan01@gmail.com
+- ⚡ Fun fact: I'm a Photographer
 
 ### My GitHub Stats
 
@@ -22,9 +21,8 @@
 
 ### Connect with me
 <p align="left">
-<a href="[Your LinkedIn URL]" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="[Your Instagram URL]" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-[Add other social media icons as needed]
+<a href="https://lk.linkedin.com/in/akil-dikshan-8313b0239" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/akildikshan/?locale=ko-KR&hl=am-et" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ### GitHub Activity
